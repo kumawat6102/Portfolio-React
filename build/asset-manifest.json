@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/portfolio-react-project/static/css/main.9b0f8d4f.css",
-    "main.js": "/portfolio-react-project/static/js/main.a4862b12.js",
-    "static/media/m3.png": "/portfolio-react-project/static/media/m3.e587e33642e0b3652c18.png",
-    "static/media/m2.png": "/portfolio-react-project/static/media/m2.8361f9fb0b00ccc2068b.png",
-    "static/media/m1.png": "/portfolio-react-project/static/media/m1.9cfdda0c653c5b816b9e.png",
-    "static/media/m6.png": "/portfolio-react-project/static/media/m6.28825ce1207f39334df5.png",
-    "static/media/m4.png": "/portfolio-react-project/static/media/m4.4f50ae112394f3833fb3.png",
-    "static/media/m5.png": "/portfolio-react-project/static/media/m5.966a0d244bef8c32ac23.png",
-    "static/media/intro2.png": "/portfolio-react-project/static/media/intro2.a092ba3f562270593644.png",
-    "static/media/about.png": "/portfolio-react-project/static/media/about.cb3d216cc8ed2439892b.png",
-    "static/media/award.png": "/portfolio-react-project/static/media/award.a796a64fbb78cc3a9666.png",
-    "static/media/icon3.png": "/portfolio-react-project/static/media/icon3.a01cb8cc428702f30bec.png",
-    "static/media/icon2.png": "/portfolio-react-project/static/media/icon2.a49e015815e3ac6d2bd3.png",
-    "static/media/sun.png": "/portfolio-react-project/static/media/sun.f794832ad72b90c61eb7.png",
-    "static/media/icon1.png": "/portfolio-react-project/static/media/icon1.d90a6d23cf5129d853bb.png",
-    "static/media/moon.png": "/portfolio-react-project/static/media/moon.3bea3d398a25611d421b.png",
-    "index.html": "/portfolio-react-project/index.html",
-    "main.9b0f8d4f.css.map": "/portfolio-react-project/static/css/main.9b0f8d4f.css.map",
-    "main.a4862b12.js.map": "/portfolio-react-project/static/js/main.a4862b12.js.map"
+    "main.css": "/kumawat6102/portfolio-react.git/static/css/main.9b0f8d4f.css",
+    "main.js": "/kumawat6102/portfolio-react.git/static/js/main.fd099664.js",
+    "static/media/m3.png": "/kumawat6102/portfolio-react.git/static/media/m3.e587e33642e0b3652c18.png",
+    "static/media/m2.png": "/kumawat6102/portfolio-react.git/static/media/m2.8361f9fb0b00ccc2068b.png",
+    "static/media/m1.png": "/kumawat6102/portfolio-react.git/static/media/m1.9cfdda0c653c5b816b9e.png",
+    "static/media/m6.png": "/kumawat6102/portfolio-react.git/static/media/m6.28825ce1207f39334df5.png",
+    "static/media/m4.png": "/kumawat6102/portfolio-react.git/static/media/m4.4f50ae112394f3833fb3.png",
+    "static/media/m5.png": "/kumawat6102/portfolio-react.git/static/media/m5.966a0d244bef8c32ac23.png",
+    "static/media/intro2.png": "/kumawat6102/portfolio-react.git/static/media/intro2.a092ba3f562270593644.png",
+    "static/media/about.png": "/kumawat6102/portfolio-react.git/static/media/about.cb3d216cc8ed2439892b.png",
+    "static/media/award.png": "/kumawat6102/portfolio-react.git/static/media/award.a796a64fbb78cc3a9666.png",
+    "static/media/icon3.png": "/kumawat6102/portfolio-react.git/static/media/icon3.a01cb8cc428702f30bec.png",
+    "static/media/icon2.png": "/kumawat6102/portfolio-react.git/static/media/icon2.a49e015815e3ac6d2bd3.png",
+    "static/media/sun.png": "/kumawat6102/portfolio-react.git/static/media/sun.f794832ad72b90c61eb7.png",
+    "static/media/icon1.png": "/kumawat6102/portfolio-react.git/static/media/icon1.d90a6d23cf5129d853bb.png",
+    "static/media/moon.png": "/kumawat6102/portfolio-react.git/static/media/moon.3bea3d398a25611d421b.png",
+    "index.html": "/kumawat6102/portfolio-react.git/index.html",
+    "main.9b0f8d4f.css.map": "/kumawat6102/portfolio-react.git/static/css/main.9b0f8d4f.css.map",
+    "main.fd099664.js.map": "/kumawat6102/portfolio-react.git/static/js/main.fd099664.js.map"
   },
   "entrypoints": [
     "static/css/main.9b0f8d4f.css",
-    "static/js/main.a4862b12.js"
+    "static/js/main.fd099664.js"
   ]
 }
