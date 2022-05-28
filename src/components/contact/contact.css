@@ -1,0 +1,109 @@
+.c{
+    height: 100vh;
+   position: relative;
+}
+.c-bg{
+    width: 20px;
+    height: 100%;
+    background-color:blueviolet;
+    position: absolute;
+}
+.c-wrapper{
+    padding: 40px;
+    display: flex;
+}
+.c-left{
+    flex: 1;
+}
+.c-right{
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.c-tittle{
+    font-size: 60px;
+    font-weight: 60%;
+}
+.c-info-item{
+    display: flex;
+    align-items: center;
+    margin: 10% 5%;
+}
+.c-icon{
+    width: 30ppx;
+    height: 30px;
+    margin-right: 10px;
+}
+.c-desc{
+    font-weight: 200;
+}
+form{
+    margin-top: 10px;
+}
+input{
+    width: 50%;
+    height: 40px;
+    border: none;
+    border-bottom: 1px solid rgb(197, 197, 197);
+    margin: 10px 0px;
+    font-size: 15px;
+    padding-left: 10px;
+    border-radius: 5px;
+}
+textarea{
+    width: 90%;
+
+    margin: 10px 0px;
+    font-size: 15px;
+    padding-left: 6px;
+    border-radius: 5px;
+    border-bottom: 1px solid rgb(197, 197, 197);
+}
+button{ 
+    border: none;
+    padding: 10px;
+    background-color: black;
+    color: white;
+    font-weight: 500;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+@media screen and (max-width: 480px) {
+    .c-wrapper {
+      flex-direction: column;
+      padding: 0px 50px;
+    }
+  
+    .c-title {
+      font-size: 30px;
+    }
+  
+    .c-info-item {
+      margin: 20px 0px;
+      width: 100%;
+    }
+  
+    .c-desc {
+      display: none;
+    }
+  
+    form {
+      margin-top: 0px;
+      display: flex;
+      flex-wrap: wrap;
+    }
+  
+    input {
+      width: 35%;
+      height: 40px;
+      margin: 10px;
+      margin-left: 0;
+    }
+  
+    button {
+      margin-top: 10px;
+    }
+  }
